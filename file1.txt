@@ -2,3 +2,5 @@ this is my file one for git course
 
 another marketting msg section added to file one
 add some thingh
+
+add another file to the folder and commit it.
